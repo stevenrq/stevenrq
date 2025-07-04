@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Steven Ricardo Quiñones
 
-<!--
-**stevenrq/stevenrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Backend con Java y Spring | 🚀 Apasionado por la tecnología y el aprendizaje continuo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy un estudiante de Ingeniería de Sistemas con especial interés en el desarrollo de software, particularmente en el backend con Java y el ecosistema de Spring. Actualmente estoy trabajando en un sistema de gestión de inventario de vehículos usados, aplicando una arquitectura de microservicios con Spring Cloud y un frontend en Angular.
+
+Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y construir soluciones escalables y seguras.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Backend:**
+
+- Java SE / EE  
+- Spring Boot 3, Spring Framework 6  
+- Spring Data JPA, Spring Security, Spring Cloud (Eureka, Gateway, Config, LoadBalancer)
+
+**Frontend:**
+
+- Angular 20  
+- Bootstrap 5  
+- Redux (manejo de estado)  
+
+**Arquitectura y patrones:**
+
+- Microservicios  
+- JWT y OAuth 2  
+- SPA y MVC  
+
+**Bases de datos y comunicación:**
+
+- MySQL 8  
+- Hibernate / JPA  
+- REST APIs, WebClient, WebSockets (SockJS + STOMP.js)
+
+**DevOps y cloud:**
+
+- Docker (incluyendo redes)  
+- AWS (EC2, RDS, S3)  
+
+**Testing y observabilidad:**
+
+- Resilience4j  
+- Micrometer + Zipkin  
+
+**Otros:**
+
+- CLI: Angular CLI, Spring CLI  
+- UI: Thymeleaf, Bootstrap  
+- Entorno: Ubuntu LTS, Warp, IntelliJ IDEA Ultimate, VS Code
+
+---
+
+## 🚀 Proyectos destacados
+
+🔧 **Sistema de Gestión de Inventario de Vehículos Usados**  
+Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.  
+🔗 [Pronto estará disponible en mi GitHub]
+
+---
+
+## 🌱 En constante aprendizaje
+
+Actualmente estoy mejorando mi nivel de inglés y profundizando mis conocimientos en buenas prácticas de desarrollo, pruebas automatizadas, arquitectura limpia y despliegue en la nube.
+
+---
+
+## 📫 ¿Quieres contactarme?
+
+Estoy abierto a colaborar en proyectos, participar en comunidades o recibir feedback constructivo.
+
+- 💼 [LinkedIn](www.linkedin.com/in/steven-ricardo-quiñones)
+- 📧 stevenrq8@gmail.com.com
+- 🌐 [Repositorios](https://github.com/stevenrq?tab=repositories)
+
+---
+
+> _“La mejor forma de aprender es creando.”_  
+¡Gracias por visitar mi perfil!
+
