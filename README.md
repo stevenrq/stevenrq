@@ -36,7 +36,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 - MySQL 8  
 - Hibernate / JPA  
-- REST APIs, WebClient, WebSockets (SockJS + STOMP.js)
+- REST APIs, RestClient, WebClient, WebSockets (SockJS + STOMP.js)
 
 **DevOps y cloud:**
 
@@ -60,7 +60,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 🔧 **Sistema de Gestión de Inventario de Vehículos Usados**  
 Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.  
-🔗 [Pronto estará disponible en mi GitHub]
+🔗 [Puedes mirar los repositorios aquí](https://github.com/stevenrq?tab=repositories)
 
 ---
 
@@ -75,7 +75,7 @@ Actualmente estoy mejorando mi nivel de inglés y profundizando mis conocimiento
 Estoy abierto a colaborar en proyectos, participar en comunidades o recibir feedback constructivo.
 
 - 💼 [LinkedIn](www.linkedin.com/in/steven-ricardo-quiñones)
-- 📧 stevenrq8@gmail.com.com
+- 📧 [stevenrq8@gmail.com.com](mailto:stevenrq8@gmail.com)
 - 🌐 [Repositorios](https://github.com/stevenrq?tab=repositories)
 
 ---
