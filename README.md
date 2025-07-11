@@ -60,7 +60,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 🔧 **Sistema de Gestión de Inventario de Vehículos Usados**  
 Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.  
-🔗 [Puedes mirar los repositorios aquí](https://github.com/stevenrq?tab=repositories)
+🔗 [sgivu-platform](https://github.com/stevenrq/sgivu-platform)
 
 ---
 
