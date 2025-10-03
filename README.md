@@ -24,7 +24,6 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 - Angular 20  
 - Bootstrap 5  
-- Redux (manejo de estado)  
 
 **Arquitectura y patrones:**
 
@@ -40,7 +39,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 **DevOps y cloud:**
 
-- Docker (incluyendo redes)  
+- Docker  
 - AWS (EC2, RDS, S3)  
 
 **Testing y observabilidad:**
@@ -52,7 +51,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 - CLI: Angular CLI, Spring CLI  
 - UI: Thymeleaf, Bootstrap  
-- Entorno: Ubuntu LTS, Warp, IntelliJ IDEA Ultimate, VS Code
+- Entorno: Ubuntu LTS
 
 ---
 
