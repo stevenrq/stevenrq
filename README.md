@@ -58,7 +58,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 ## 🚀 Proyectos destacados
 
-🔧 **Sistema de Gestión de Inventario de Vehículos Usados**  
+🔧 **Sistema de Gestión de Inventario de Vehículos Usados con Predicción de Demanda**  
 Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.  
 🔗 [sgivu-platform](https://github.com/stevenrq/sgivu-platform)
 
