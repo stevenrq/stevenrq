@@ -63,7 +63,7 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 - 🤖 **Sistema de Monitoreo Ambiental Automatizado**:
   Desarrollo en curso utilizando MongoDB y Express.
-  🔗 [monitoring-system](https://github.com/stevenrq/monitoring_system)
+  🔗 [monitoring_system](https://github.com/stevenrq/monitoring_system)
 
 ---
 
