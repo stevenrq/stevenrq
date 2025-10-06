@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un estudiante de Ingeniería de Sistemas con especial interés en el desarrollo de software, particularmente en el backend con Java y el ecosistema de Spring. Actualmente estoy trabajando en un sistema de gestión de inventario de vehículos usados, aplicando una arquitectura de microservicios con Spring Cloud y un frontend en Angular.
+Estudiante de Ingeniería de Sistemas con especial interés en el desarrollo de software, particularmente en el backend con Java y el ecosistema de Spring. Actualmente estoy trabajando en un sistema de gestión de inventario de vehículos usados, aplicando una arquitectura de microservicios con Spring Cloud y un frontend en Angular.
 
 Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y construir soluciones escalables y seguras.
 
@@ -57,9 +57,13 @@ Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y const
 
 ## 🚀 Proyectos destacados
 
-🔧 **Sistema de Gestión de Inventario de Vehículos Usados con Predicción de Demanda**  
-Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.  
-🔗 [sgivu-platform](https://github.com/stevenrq/sgivu-platform)
+- 🔧 **Sistema de Gestión de Inventario de Vehículos Usados con Predicción de Demanda**
+  Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.
+  🔗 [sgivu-platform](https://github.com/stevenrq/sgivu-platform)
+
+- 🤖 **Sistema de Monitoreo Ambiental Automatizado**
+  Desarrollo en curso utilizando MongoDB y Express.
+  🔗 [monitoring-system](https://github.com/stevenrq/monitoring_system)
 
 ---
 
@@ -79,6 +83,5 @@ Estoy abierto a colaborar en proyectos, participar en comunidades o recibir feed
 
 ---
 
-> _“La mejor forma de aprender es creando.”_  
-¡Gracias por visitar mi perfil!
+> _“La práctica hace al maestro.”_ 
 
