@@ -78,7 +78,7 @@ Actualmente estoy mejorando mi nivel de inglés y profundizando mis conocimiento
 Estoy abierto a colaborar en proyectos, participar en comunidades o recibir feedback constructivo.
 
 - 💼 [LinkedIn](www.linkedin.com/in/steven-ricardo-quiñones)
-- 📧 [stevenrq8@gmail.com.com](mailto:stevenrq8@gmail.com)
+- 📧 [stevenrq8@gmail.com](mailto:stevenrq8@gmail.com)
 - 🌐 [Repositorios](https://github.com/stevenrq?tab=repositories)
 
 ---
