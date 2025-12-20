@@ -26,15 +26,15 @@ Soy un desarrollador enfocado en el backend con especial interés en la creació
 
 Desarrollo de una arquitectura de microservicios para la gestión de inventario y predicción de demanda.
 
-- Tecnologías:  Spring Cloud, PostgreSQL, FastAPI, Angular.
-- Repositorio: [sgivu](https://github.com/stevenrq/sgivu)
+- **Tecnologías**:  Spring Cloud, PostgreSQL, FastAPI, Angular.
+- **Repositorio**: [sgivu](https://github.com/stevenrq/sgivu)
 
 ### Sistema de Monitoreo Ambiental
 
 Automatización de monitoreo ambiental utilizando stacks modernos.
 
-- Tecnologías: MongoDB, Express.
-- Repositorio: [monitoring_system](https://github.com/stevenrq/monitoring_system)
+- **Tecnologías**: MongoDB, Express.
+- **Repositorio**: [monitoring_system](https://github.com/stevenrq/monitoring_system)
 
 ## Formación y objetivos
 
