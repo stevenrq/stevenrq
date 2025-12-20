@@ -1,79 +1,52 @@
-# 👋 ¡Hola! Soy Steven Ricardo Quiñones
+# Steven Ricardo Quiñones
 
-🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollador Backend con Java y Spring | 🚀 Apasionado por la tecnología y el aprendizaje continuo
+## Estudiante de Ingeniería de Sistemas | Desarrollador Backend Java & Spring
 
----
+Soy un desarrollador enfocado en el backend con especial interés en la creación de soluciones escalables y seguras utilizando el ecosistema de Spring. Mi metodología de trabajo se basa en la escritura de código limpio, la implementación de buenas prácticas y la arquitectura de microservicios.
 
-## 🧠 Sobre mí
+## Perfil técnico
 
-Estudiante de Ingeniería de Sistemas con especial interés en el desarrollo de software, particularmente en el backend con Java y el ecosistema de Spring. Actualmente estoy trabajando en un sistema de gestión de inventario de vehículos usados, aplicando una arquitectura de microservicios con Spring Cloud y un frontend en Angular.
+### Backend y Arquitectura
 
-Mi enfoque se basa en escribir código limpio, aplicar buenas prácticas y construir soluciones escalables y seguras.
+- Java SE / EE, Spring Boot 3, Spring Framework 6.  
+- Spring Cloud (Eureka, Gateway, Config, LoadBalancer).  
+- Microservicios, JWT, OAuth 2, REST APIs.
+- Spring Data JPA, Hibernate, MySQL 8.
 
----
+### Frontend y herramientas
 
-## 🛠️ Tecnologías y herramientas
+- Angular 20, Bootstrap 5.
+- Docker, AWS (EC2, RDS, S3).
+- Resilience4j, Micrometer, Zipkin.
+- Ubuntu LTS, Git.  
 
-**Backend:**
+## Proyectos destacados
 
-- Java SE / EE  
-- Spring Boot 3, Spring Framework 6  
-- Spring Data JPA, Spring Security, Spring Cloud (Eureka, Gateway, Config, LoadBalancer)
+### Sistema de Gestión de Inventario de Vehículos Usados con Predicción de Demanda
 
-**Frontend:**
+Desarrollo de una arquitectura de microservicios para la gestión de inventario y predicción de demanda.
 
-- Angular 20  
-- Bootstrap 5  
+- Tecnologías:  Spring Cloud, PostgreSQL, FastAPI, Angular.
+- Repositorio: [sgivu](https://github.com/stevenrq/sgivu)
 
-**Arquitectura y patrones:**
+### Sistema de Monitoreo Ambiental
 
-- Microservicios  
-- JWT y OAuth 2  
-- SPA y MVC  
+Automatización de monitoreo ambiental utilizando stacks modernos.
 
-**Bases de datos y comunicación:**
+- Tecnologías: MongoDB, Express.
+- Repositorio: [monitoring_system](https://github.com/stevenrq/monitoring_system)
 
-- MySQL 8  
-- Hibernate / JPA  
-- REST APIs, RestClient, WebClient, WebSockets (SockJS + STOMP.js)
+## Formación y objetivos
 
-**DevOps y cloud:**
+- Arquitectura Limpia (Clean Architecture).
 
-- Docker  
-- AWS (EC2, RDS, S3)  
+- Pruebas automatizadas y TDD.
 
-**Testing y observabilidad:**
+- Despliegue continuo y Cloud Computing.
 
-- Resilience4j  
-- Micrometer + Zipkin  
+- Inglés técnico.
 
-**Otros:**
-
-- CLI: Angular CLI, Spring CLI  
-- UI: Thymeleaf, Bootstrap  
-- Entorno: Ubuntu LTS
-
----
-
-## 🚀 Proyectos destacados
-
-- 🔧 **Sistema de Gestión de Inventario de Vehículos Usados con Predicción de Demanda**:
-  Desarrollo en curso utilizando microservicios con Spring Cloud y Angular.
-  🔗 [sgivu](https://github.com/stevenrq/sgivu)
-
-- 🤖 **Sistema de Monitoreo Ambiental Automatizado**:
-  Desarrollo en curso utilizando MongoDB y Express.
-  🔗 [monitoring_system](https://github.com/stevenrq/monitoring_system)
-
----
-
-## 🌱 En constante aprendizaje
-
-Actualmente estoy mejorando mi nivel de inglés y profundizando mis conocimientos en buenas prácticas de desarrollo, pruebas automatizadas, arquitectura limpia y despliegue en la nube.
-
----
-
-## 📫 ¿Quieres contactarme?
+## ¿Quieres contactarme?
 
 Estoy abierto a colaborar en proyectos, participar en comunidades o recibir feedback constructivo.
 
@@ -81,7 +54,4 @@ Estoy abierto a colaborar en proyectos, participar en comunidades o recibir feed
 - 📧 [stevenrq8@gmail.com](mailto:stevenrq8@gmail.com)
 - 🌐 [Repositorios](https://github.com/stevenrq?tab=repositories)
 
----
-
-> _“La práctica hace al maestro.”_ 
-
+> _“La práctica hace al maestro.”_
