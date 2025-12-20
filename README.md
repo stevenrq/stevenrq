@@ -39,11 +39,8 @@ Automatización de monitoreo ambiental utilizando stacks modernos.
 ## Formación y objetivos
 
 - Arquitectura Limpia (Clean Architecture).
-
 - Pruebas automatizadas y TDD.
-
 - Despliegue continuo y Cloud Computing.
-
 - Inglés técnico.
 
 ## ¿Quieres contactarme?
